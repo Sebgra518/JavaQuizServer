@@ -1,0 +1,1 @@
+To run as gradle Server (Run in server directory): ./gradlew clean bootRun
